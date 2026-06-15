@@ -1,3 +1,9 @@
+## important links:
+
+[source repo](https://github.com/FullstackAcademy/project-pricing.git)
+
+---
+
 # Project Pricing
 
 Something you might do as a freelance web developer, in addition to building
